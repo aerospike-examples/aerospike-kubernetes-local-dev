@@ -1,0 +1,12 @@
+📁  Mounting host path /home/joem/proj/kube_local_dev/projects into VM as /projects ...
+    ▪ Mount type:   <no value>
+    ▪ User ID:      docker
+    ▪ Group ID:     docker
+    ▪ Version:      9p2000.L
+    ▪ Message Size: 262144
+    ▪ Permissions:  755 (-rwxr-xr-x)
+    ▪ Options:      map[]
+🚀  Userspace file server: ufs starting
+✅  Successfully mounted /home/joem/proj/kube_local_dev/projects to /projects
+
+📌  NOTE: This process must stay alive for the mount to be accessible ...
